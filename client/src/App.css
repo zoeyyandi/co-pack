@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+  align-content: space-around;
+  flex-direction: column;
+}
+
+.ListContainer {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+.ItemList {
+  list-style-type: none;
+}

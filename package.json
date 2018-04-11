@@ -1,0 +1,11 @@
+{
+  "name": "co-pack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server:run": "node ./server/app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
