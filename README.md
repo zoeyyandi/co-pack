@@ -1,8 +1,8 @@
-##Install
+## Install
 `cd client && npm install`
 `cd ..`
 `cd server && npm install`
-##Run the app
+## Run the app
 
 ### start dev server
 
